@@ -1,0 +1,16 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #183D3D;
+    border-bottom: 3px solid #5C8374;
+}
+
+.navRight{
+    display: flex;
+    flex-direction: row;
+    width: 10%;
+    justify-content: space-between;
+}
