@@ -1,0 +1,17 @@
+.chatRoom{
+    display: flex;
+    flex-direction: row;
+}
+
+.left{
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    height: 85vh;
+    margin: 0 5% 5% 2%;
+}
+
+.right{
+    width: 70vw;
+}

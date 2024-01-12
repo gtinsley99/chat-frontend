@@ -1,0 +1,15 @@
+.search{
+    margin: 10px
+}
+
+.search input{
+    border-radius: 8%;
+    width: 70%;
+    height: 150%;
+    background-color: #697e76;
+    color: white;
+}
+
+::placeholder{
+    color: white;
+}
